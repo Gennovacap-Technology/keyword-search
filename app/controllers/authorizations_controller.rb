@@ -5,7 +5,8 @@ class AuthorizationsController < ApplicationController
   GOOGLE_LOGOUT_URL = 'https://www.google.com/accounts/Logout'
 
   def login
-    api = get_adwords_api()
+    api = get_adwords_api
+    
     if session[:token]
       redirect_to home_index_path
     else
@@ -18,7 +19,7 @@ class AuthorizationsController < ApplicationController
   end
 
   def callback
-    api = get_adwords_api()
+    api = get_adwords_api
     begin
       session[:token] = api.authorize(
         {

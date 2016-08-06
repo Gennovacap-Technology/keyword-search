@@ -9,7 +9,7 @@ class ApplicationController < ActionController::Base
     end
 
     # Returns currently selected account.
-    def selected_account()
+    def selected_account
       @selected_account ||= session[:selected_account]
       return @selected_account
     end
@@ -42,7 +42,7 @@ class ApplicationController < ActionController::Base
                 :oauth2_client_id => ENV.fetch("OAUTH2_CLIENT_ID") ,
                 :oauth2_client_secret => ENV.fetch("OAUTH2_CLIENT_SECRET"),
                 :developer_token => ENV.fetch("DEVELOPER_TOKEN"),
-                :user_agent => user_agent
+                :user_agent => ""
               },
               :service => {
                 :environment => 'PRODUCTION'

@@ -10,6 +10,7 @@ gem 'pg', '~> 0.18'
 gem 'puma', '~> 3.0'
 
 gem 'google-adwords-api', require: 'adwords_api'
+gem 'font-awesome-sass', '~> 4.6.2'
 
 gem 'bootstrap-sass', '~> 3.3.6'
 # Use SCSS for stylesheets
