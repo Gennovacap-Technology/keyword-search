@@ -5,7 +5,7 @@ class ApplicationController < ActionController::Base
 
   # Returns the API version in use.
     def get_api_version()
-      return :v201605
+      return TargetingIdeaService.api_version
     end
 
     # Returns currently selected account.
