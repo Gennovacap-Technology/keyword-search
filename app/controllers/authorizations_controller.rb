@@ -6,9 +6,9 @@ class AuthorizationsController < ApplicationController
 
   def login
     api = get_adwords_api
-    
+
     if session[:token]
-      redirect_to home_index_path
+      redirect_to keywords_path
     else
       begin
         token = api.authorize({:oauth2_callback => authorizations_callback_url})
@@ -28,7 +28,7 @@ class AuthorizationsController < ApplicationController
         }
       )
       flash.notice = 'Authorized successfully'
-      redirect_to home_index_path
+      redirect_to accounts_path
     rescue AdsCommon::Errors::OAuth2VerificationRequired => e
       flash.alert = 'Authorization failed'
       redirect_to authorizations_login_path

@@ -1,0 +1,26 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-6 col-md-push-3">
+      <h2>Select an account Before continue</h2>
+      <%= form_tag accounts_select_path, method: :put, class: "form-horizontal" do %>
+        <div class="form-group">
+          <label for="select-account" class="col-md-2 control-label">Select Account:</label>
+          <div class="col-md-5">
+            <%=
+              select_tag "account[id]",
+                options_for_select(@accounts),
+                prompt: "Select an Account",
+                class: "form-control",
+                id: "select-account"
+            %>
+          </div>
+        </div>
+        <div class="form-group">
+          <div class="col-md-offset-2 col-md-5">
+            <button type="submit" class="btn btn-primary">Continue</button>
+          </div>
+        </div>
+      <% end %>
+    </div>
+  </div>
+</div>

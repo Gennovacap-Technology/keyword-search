@@ -3,7 +3,7 @@ Rails.application.routes.draw do
   get "homes/index"
 
   controller :keywords, as: 'keywords', path: 'keywords' do
-    get 'index'
+    get '/', to: "keywords#index"
     post 'search'
   end
 
@@ -11,6 +11,11 @@ Rails.application.routes.draw do
     get "login"
     get "callback"
     get "logout"
+  end
+
+  controller :accounts, as: 'accounts', path: 'accounts' do
+    get "/", to: "accounts#index"
+    put "select"
   end
 
   root :to => "homes#index"
