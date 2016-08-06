@@ -9,7 +9,7 @@ gem 'pg', '~> 0.18'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 
-gem 'google-adwords-api'
+gem 'google-adwords-api', require: 'adwords_api'
 
 gem 'bootstrap-sass', '~> 3.3.6'
 # Use SCSS for stylesheets
