@@ -1,11 +1,19 @@
 Rails.application.routes.draw do
 
-  controller :keywords, as: 'keywords' do
+  get "homes/index"
+
+  controller :keywords, as: 'keywords', path: 'keywords' do
     get 'index'
-    get 'search'
+    post 'search'
   end
 
-  root to: "keywords#index"
+  controller :authorizations, as: 'authorizations' do
+    get "login"
+    get "callback"
+    get "logout"
+  end
+
+  root :to => "homes#index"
 
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end
