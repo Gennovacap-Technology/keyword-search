@@ -36,8 +36,19 @@ class ApplicationController < ActionController::Base
     # Creates an instance of AdWords API class. Uses a configuration file and
     # Rails config directory.
     def create_adwords_api()
-      config_filename = File.join(Rails.root, 'config', 'adwords_api.yml')
-      @api = AdwordsApi::Api.new(config_filename)
+      @api = AdwordsApi::Api.new({
+              :authentication => {
+                :method => 'OAuth2',
+                :oauth2_client_id => ENV.fetch("OAUTH2_CLIENT_ID") ,
+                :oauth2_client_secret => ENV.fetch("OAUTH2_CLIENT_SECRET"),
+                :developer_token => ENV.fetch("DEVELOPER_TOKEN"),
+                :user_agent => user_agent
+              },
+              :service => {
+                :environment => 'PRODUCTION'
+              }
+            })
+
       token = session[:token]
       # If we have an OAuth2 token in session we use the credentials from it.
       if token
