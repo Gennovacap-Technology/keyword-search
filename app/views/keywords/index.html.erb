@@ -27,7 +27,6 @@
         <thead>
           <tr class="active">
             <th>Keyword</td>
-            <th>Country</td>
             <th>Search Volume</td>
           </th>
         </thead>
@@ -35,7 +34,6 @@
           <% @result.each do |row| %>
             <tr>
               <td><%= row.keyword %></td>
-              <td>United States</td>
               <td><%= row.search_volume %></td>
             </tr>
           <% end %>
