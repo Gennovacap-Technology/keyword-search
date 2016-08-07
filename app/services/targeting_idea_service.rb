@@ -10,13 +10,17 @@ class TargetingIdeaService
 
   def initialize adwords, keywords = [], locations = []
     @adwords = adwords
-    @keywords = keywords
-    @locations = locations
+    @keywords = ["cake bakery"]
+    @locations = [2840]
     @languages = [1000]
   end
 
   def run!
     if self.valid?
+      page = adwords.service(:TargetingIdeaService, API_VERSION).get(selector)
+      File.open(Rails.root.join("sample", 'keywords.json'),"w") do |f|
+        f.write(JSON.pretty_generate(page))
+      end
     else
       false
     end
@@ -53,7 +57,6 @@ private
         {
           xsi_type: 'LocationSearchParameter',
           locations: prepare_locations_params
-        }
         }
       ],
       paging: {

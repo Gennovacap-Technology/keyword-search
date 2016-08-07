@@ -1,0 +1,2405 @@
+{
+  "total_num_entries": 700,
+  "entries": [
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery f2f42f5c",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            16,
+            24,
+            10628,
+            7
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5318284,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring e0872a05",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            18,
+            10628,
+            15,
+            23
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 3921119,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 6803d6f6",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            42,
+            60,
+            10628,
+            55
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 2802421,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring 8ebff5d9",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            48,
+            26,
+            10628,
+            39
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5864483,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring ef5c02b4",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            8,
+            1,
+            26,
+            10628
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5040029,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery abf9c58c",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            40,
+            34,
+            10628,
+            45
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4834352,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring fc8dbfad",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            19,
+            10628,
+            5,
+            6
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4438273,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery f676fa67",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            25,
+            2,
+            10628,
+            13
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4885904,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 9b7a8bad",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            10628,
+            29,
+            37,
+            47
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 3541775,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery c6be67fa",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            48,
+            10628,
+            54,
+            63
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4205427,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 23f95c2b",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            36,
+            10628,
+            53,
+            62
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4876590,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 4a6ad68a",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            41,
+            28,
+            10628,
+            38
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5549185,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring 4f420e4c",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            27,
+            12,
+            10628,
+            45
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5137920,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring ab540feb",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            48,
+            51,
+            10628,
+            70
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5028861,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 420351ae",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            35,
+            10628,
+            13,
+            29
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 3960247,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring a37b90da",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            0,
+            2,
+            20,
+            10628
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5563700,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring bc4224c6",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            10,
+            10628,
+            14,
+            22
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5217556,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery fa1bc054",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            57,
+            10628,
+            37,
+            23
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5908576,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring dd02a82c",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            1,
+            10628,
+            22,
+            7
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5912249,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 949ff9cf",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            34,
+            12,
+            10628,
+            22
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4821501,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring beed0409",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            74,
+            10628,
+            62,
+            47
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5353042,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring 74e6cb37",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            57,
+            36,
+            52,
+            10628
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 6635936,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 28d12773",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            25,
+            44,
+            10628,
+            23
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 6122039,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery c3af04e",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            10628,
+            45,
+            53,
+            39
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 3902438,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring 8ef14841",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            56,
+            49,
+            57,
+            10628
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5451035,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring 8378cdce",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            3,
+            28,
+            10628,
+            14
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 6133847,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring de7e0d3f",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            25,
+            19,
+            28,
+            10628
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5039675,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring 9d0d1a3e",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            32,
+            26,
+            10628,
+            39
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4624041,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 7c5d6104",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            50,
+            10628,
+            46,
+            70
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 6287862,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 2f954bed",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            40,
+            57,
+            74,
+            10628
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4526677,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery c2672387",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            56,
+            43,
+            51,
+            10628
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4075093,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 749572ac",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            32,
+            3,
+            10628,
+            13
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 6026354,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring a7308313",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            41,
+            36,
+            10628,
+            54
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5627920,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 38a45a96",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            34,
+            44,
+            10628,
+            63
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5612645,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring a865ceb3",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            16,
+            12,
+            10628,
+            14
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5380473,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring ee17be5",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            19,
+            20,
+            10628,
+            30
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4972591,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 1c5eedee",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            51,
+            10628,
+            37,
+            45
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4780947,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring 5016f04d",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            32,
+            50,
+            10628,
+            38
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5161633,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring abb77146",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            36,
+            52,
+            10628,
+            37
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5843527,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring 20a77f69",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            32,
+            48,
+            36,
+            10628
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5002932,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 2a113a4c",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            2,
+            19,
+            10628,
+            29
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4971792,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 12d29b9e",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            32,
+            40,
+            27,
+            10628
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 6236873,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring c7382130",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            65,
+            10628,
+            78,
+            47
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5149909,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring ca2bc891",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            16,
+            20,
+            10628,
+            37
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5346146,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 779dc62d",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            27,
+            10628,
+            13,
+            14
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5358270,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 637d3784",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            72,
+            57,
+            10628,
+            45
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4402156,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring c3e5ddd0",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            65,
+            35,
+            10628,
+            45
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4151288,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring f5af36aa",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            33,
+            35,
+            10628,
+            21
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5568523,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery ff1e4fbd",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            67,
+            10628,
+            37,
+            54
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5942388,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery d08e723f",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            26,
+            42,
+            10628,
+            37
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4231615,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 90b6c8f0",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            58,
+            60,
+            10628,
+            39
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5970286,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 5a916d72",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            19,
+            10628,
+            29,
+            22
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4612675,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 177ac651",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            33,
+            44,
+            60,
+            10628
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4714772,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 861171c6",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            26,
+            59,
+            10628,
+            39
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4862600,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring 6b6b36ab",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            35,
+            43,
+            44,
+            10628
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4409413,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring 3942db35",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            48,
+            28,
+            60,
+            10628
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5346602,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring d9350150",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            10,
+            10628,
+            37,
+            23
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4301261,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 1ae259af",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            40,
+            57,
+            27,
+            10628
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4136645,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery ef15edc0",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            19,
+            10628,
+            30,
+            38
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4116870,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 8dc10c25",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            33,
+            28,
+            10628,
+            46
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5923269,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring bba411cd",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            25,
+            10628,
+            30,
+            15
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5276811,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery c275b26b",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            10628,
+            13,
+            45,
+            31
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4304467,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 9266ed3d",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            33,
+            51,
+            10628,
+            39
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5865421,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring b64013a8",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            42,
+            66,
+            59,
+            10628
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 3903486,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring 91315c80",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            48,
+            59,
+            75,
+            10628
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5448034,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring 81096f73",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            25,
+            10628,
+            29,
+            15
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4997990,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring 15da794b",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            25,
+            58,
+            43,
+            10628
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4940218,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring 5f38f9b2",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            18,
+            27,
+            4,
+            10628
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4725752,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring d7e65fc9",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            42,
+            10628,
+            22,
+            47
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4058715,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 8bc50e96",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            26,
+            10628,
+            14,
+            15
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4821392,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery b4c5379f",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            48,
+            66,
+            10628,
+            61
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 3690926,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring 9fcca0e8",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            40,
+            26,
+            34,
+            10628
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 6638138,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring 908acdef",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            10628,
+            37,
+            55,
+            63
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5331035,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring 443e9de9",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            56,
+            42,
+            58,
+            10628
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5303723,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery ae30d9e6",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            24,
+            35,
+            10628,
+            6
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4449991,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring 5feabc9a",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            8,
+            41,
+            26,
+            10628
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4736284,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 109b44b7",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            40,
+            41,
+            34,
+            10628
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5437371,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 966c733a",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            57,
+            10628,
+            21,
+            39
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 3036360,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery d0500c7a",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            48,
+            36,
+            10628,
+            47
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5229509,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery bf15ac46",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            19,
+            28,
+            10628,
+            6
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4612902,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery c8f762d3",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            42,
+            50,
+            10628,
+            38
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 6618540,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 91429da",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            49,
+            68,
+            10628,
+            55
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 3451146,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring 1301ad46",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            25,
+            27,
+            10628,
+            23
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5852170,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery c4890ca6",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            0,
+            10628,
+            6,
+            14
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4905879,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 882ab683",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            64,
+            10628,
+            29,
+            46
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 3524128,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring f2024ac4",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            0,
+            2,
+            10628,
+            5
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 3428141,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery cead2cf9",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            18,
+            20,
+            10628,
+            13
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4732702,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery b1cb4205",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            0,
+            10628,
+            6,
+            7
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5329833,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring 79290e01",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            25,
+            50,
+            43,
+            10628
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4381603,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring 545b621a",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            26,
+            42,
+            12,
+            10628
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 6473770,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring 7610f7e2",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            17,
+            20,
+            10628,
+            39
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4052301,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 72516df8",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            28,
+            60,
+            10628,
+            47
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4666844,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring 399339e9",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            25,
+            10628,
+            30,
+            15
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 6499910,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 9b51b305",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            57,
+            73,
+            10628,
+            46
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4933385,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery e8530bc",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            34,
+            43,
+            36,
+            10628
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4076397,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery a7b17128",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            35,
+            10628,
+            21,
+            55
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5212625,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 225dba42",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            0,
+            19,
+            10628,
+            23
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5154993,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "red herring 54d44205",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            65,
+            10628,
+            61,
+            46
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 4110021,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery fbe0495f",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            50,
+            10628,
+            37,
+            61
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5168683,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    },
+    {
+      "data": {
+        "KEYWORD_TEXT": {
+          "attribute_type": "StringAttribute",
+          "value": "cake bakery 9941f358",
+          "xsi_type": "StringAttribute"
+        },
+        "CATEGORY_PRODUCTS_AND_SERVICES": {
+          "attribute_type": "IntegerSetAttribute",
+          "value": [
+            40,
+            26,
+            10628,
+            38
+          ],
+          "xsi_type": "IntegerSetAttribute"
+        },
+        "SEARCH_VOLUME": {
+          "attribute_type": "LongAttribute",
+          "value": 5205383,
+          "xsi_type": "LongAttribute"
+        }
+      }
+    }
+  ]
+}

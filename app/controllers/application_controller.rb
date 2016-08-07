@@ -1,7 +1,7 @@
 class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
 
-  before_filter :authenticate
+  before_action :authenticate
 
   # Returns the API version in use.
     def get_api_version()
@@ -28,7 +28,7 @@ class ApplicationController < ActionController::Base
     end
 
     # Returns an API object.
-    def get_adwords_api()
+    def get_adwords_api
       @api ||= create_adwords_api()
       return @api
     end
