@@ -3,24 +3,22 @@ class TargetingIdeaService
 
   attr_reader :adwords, :locations, :keywords, :languages
 
-  validates_presence_of :adwords, :locations, :keywords
+  validates_presence_of :adwords
+  validates_with TargetingIdeaServiceValidator
 
   API_VERSION = :v201605
   PAGE_SIZE = 100
 
-  def initialize adwords, keywords = [], locations = []
-    @adwords = adwords
-    @keywords = ["cake bakery"]
-    @locations = [2840]
+  def initialize adwords, keywords: [], locations: []
+    @adwords   = adwords
+    @keywords  = keywords # ["cake bakery"]
+    @locations = locations
     @languages = [1000]
   end
 
   def fetch
     if self.valid?
-      page = adwords.service(:TargetingIdeaService, API_VERSION).get(selector)
-      # File.open(Rails.root.join("sample", 'keywords.json'),"w") do |f|
-      #   f.write(JSON.pretty_generate(page))
-      # end
+      adwords.service(:TargetingIdeaService, API_VERSION).get(selector)
     else
       false
     end
@@ -36,8 +34,7 @@ private
     {
       :idea_type => 'KEYWORD',
       :request_type => 'IDEAS',
-      :requested_attribute_types =>
-      ['KEYWORD_TEXT', 'SEARCH_VOLUME', 'CATEGORY_PRODUCTS_AND_SERVICES'],
+      :requested_attribute_types => [ 'KEYWORD_TEXT', 'SEARCH_VOLUME' ],
       :search_parameters => [
         {
           # The 'xsi_type' field allows you to specify the xsi:type of the object

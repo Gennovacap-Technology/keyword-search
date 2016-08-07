@@ -11,7 +11,7 @@
         <div class="form-group">
           <label for="country-id" class="col-md-2 control-label">Country</label>
           <div class="col-md-5">
-            <%= select_tag "keywords[code]", options_for_select(country_codes), class: "form-control", id: 'country-id' %>
+            <%= select_tag "keywords[locations]", options_for_select(country_codes), prompt: "Select a location", class: "form-control", id: 'country-id' %>
           </div>
         </div>
         <div class="form-group">
@@ -19,6 +19,7 @@
             <button type="submit" class="btn btn-primary">Search</button>
           </div>
         </div>
+        <span id="helpBlock" class="help-block"><%= @result.count %> targeting ideas found.</span>
       <% end %>
     </div>
     <div class="col-md-6">
