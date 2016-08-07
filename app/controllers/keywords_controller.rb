@@ -1,7 +1,8 @@
 class KeywordsController < ApplicationController
   def index
     api = get_adwords_api
-    TargetingIdeaService.new(api).run!
+    data = TargetingIdeaService.new(api).fetch
+    @result = TargetingIdeas.new(data).all
   end
 
   def search

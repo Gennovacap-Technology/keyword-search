@@ -31,21 +31,13 @@
           </th>
         </thead>
         <tbody>
-          <tr>
-            <td>Dell Notebooks</td>
-            <td>United States</td>
-            <td>23000</td>
-          </tr>
-          <tr>
-            <td>Dell Notebooks</td>
-            <td>Brazil</td>
-            <td>1600</td>
-          </tr>
-          <tr>
-            <td>How to make Yogurt</td>
-            <td>United States</td>
-            <td>87000</td>
-          </tr>
+          <% @result.each do |row| %>
+            <tr>
+              <td><%= row.keyword %></td>
+              <td>United States</td>
+              <td><%= row.search_volume %></td>
+            </tr>
+          <% end %>
         </tbody>
       </table>
     </div>
