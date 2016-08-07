@@ -8,16 +8,16 @@ class Country < Struct.new(:id, :code, :name)
   ]
 
   class << self
-     def list
+     def all
        COUNTRIES
      end
 
      def find_by_code code
-       list.find { |country| country.code == code.upcase }
+       all.find { |country| country.code == code.upcase }
      end
 
      def list_with_names_and_codes
-       list.map { |country| [ country.name, country.code ]}
+       all.map { |country| [ country.name, country.code ]}
      end
    end
 end
